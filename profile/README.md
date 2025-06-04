@@ -21,6 +21,7 @@ Sind Sie begeistert von den kreativen Projekten? Haben Sie eigene Ideen oder The
 ## Fridgely
 - [Zum Code](https://github.com/fhnw-ip12-24vt/fridgely-app)
 - [Zur Dokumentation](https://fhnw-ip12-24vt.github.io/fridgely-docu/)
+- [Zur Anleitung](https://fhnw-ip12-24vt.github.io/fridgely-instructions/)
 
 ## Gletschery
 - [Zum Code](https://github.com/fhnw-ip12-24vt/gletschery-app)
