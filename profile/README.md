@@ -18,10 +18,9 @@ Sind Sie begeistert von den kreativen Projekten? Haben Sie eigene Ideen oder The
 - [Zum Code](https://github.com/fhnw-ip12-24vt/wear-aware-docu)
 - [Zur Dokumentation](https://github.com/fhnw-ip12-24vt/wear-aware-docu)
 
-
 ## Fridgely
 - [Zum Code](https://github.com/fhnw-ip12-24vt/fridgely-app)
-- [Zur Dokumentation](https://github.com/fhnw-ip12-24vt/fridgely-docu)
+- [Zur Dokumentation](https://fhnw-ip12-24vt.github.io/fridgely-docu/)
 
 ## Gletschery
 - [Zum Code](https://github.com/fhnw-ip12-24vt/gletschery-app)
